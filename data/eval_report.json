@@ -1,0 +1,14 @@
+{
+  "meeting_01": {
+    "transcription": {
+      "wer": 6.2,
+      "cer": 4.262295081967213
+    },
+    "summary_similarity": 0.9466019868850708,
+    "key_points_similarity": 0.9318688809871674,
+    "decisions_similarity": 0.9999999701976776,
+    "open_questions_similarity": 1.0,
+    "action_items_task_similarity": 1.0,
+    "action_items_person_accuracy": 1.0
+  }
+}

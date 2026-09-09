@@ -1,0 +1,6 @@
+openai
+faster-whisper
+pydantic
+pydantic-settings
+python-dotenv
+

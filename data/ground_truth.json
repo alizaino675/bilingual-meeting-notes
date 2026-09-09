@@ -1,0 +1,42 @@
+{
+  "meeting_01": {
+    "reference_transcript": "The meeting discussed chronic absenteeism, particularly on Fridays, and proposed solutions such as a pancake breakfast and health tips. A student, John Smith, was noted to be chronically absent due to family responsibilities, and it was suggested he speak to the guidance counselor. The meeting also mentioned looking for community resources to assist John's family.",
+    
+    "summary": "The meeting discussed chronic absenteeism, especially on Fridays, and proposed a pancake breakfast and health tips as possible solutions. John Smith's frequent absence due to family responsibilities was also discussed, along with support from the guidance counselor and community resources.",
+    
+    "key_points": [
+      "Chronic absenteeism, especially on Fridays",
+      "Pancake breakfast proposed to encourage attendance",
+      "Health tips for flu season",
+      "John Smith's chronic absence due to family responsibilities",
+      "John Smith should be encouraged to speak with the guidance counselor",
+      "Community resources may help John's family"
+    ],
+    
+    "decisions": [
+      "Plan a pancake breakfast next week",
+      "Create posters with health tips for flu season"
+    ],
+    
+    "action_items": [
+      {
+        "task": "Plan and organize a pancake breakfast",
+        "responsible_person": "Not specified"
+      },
+      {
+        "task": "Create and distribute posters with health tips",
+        "responsible_person": "Not specified"
+      },
+      {
+        "task": "Talk to John Smith and suggest he speak to the guidance counselor",
+        "responsible_person": "The speaker"
+      },
+      {
+        "task": "Look for free or low-cost community resources for John's family",
+        "responsible_person": "The speaker"
+      }
+    ],
+    
+    "open_questions": []
+  }
+}
