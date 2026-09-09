@@ -1,6 +1,7 @@
-openai
-faster-whisper
-pydantic
-pydantic-settings
-python-dotenv
-
+faster-whisper>=1.0.0
+ollama>=0.3.0
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+sentence-transformers>=2.2.0
+jiwer>=3.0.0
+torch>=2.0.0
